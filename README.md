@@ -1,2 +1,3 @@
 # CodeFunDo-_AG
-CodeFunDo++
+#CodeFunDo++
+(Oct5' 2018: )Have to add idea!!
