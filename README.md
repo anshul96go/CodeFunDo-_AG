@@ -1,5 +1,5 @@
 
-#CodeFunDo++
+# CodeFunDo++
 
 I would focus on the prevention or mitigation part of the problem.
 As we saw in the case of recent case of Kerala floods and other incidents of Hurricane in US, it is important to quantify in real time how much aid and what type of ai is required in different parts of afected region and the pace of various factors spreading like diseases, in addition to also keep in mind the resources and safe spots available and how rapidly they are getting endangered.
